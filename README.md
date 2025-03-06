@@ -3,4 +3,4 @@
 Para
 
 
-![apli_diodo](./apli_diodo.png)
+![apli_diodo](./1000221405.jpg)
