@@ -1,2 +1,6 @@
 # Lab-4-Digital_1
-A veces
+
+Para
+
+
+![apli_diodo](./apli_diodo.png)
