@@ -18,4 +18,4 @@ La transición entre estados se controla mediante señales de control, como RS (
 Por otro luego de crear el codigo en verilog necesario para la LCD, pudimos obetner el siguiente circuito que lo describe: 
 ![RTL de la pantalla](./RTL_pantalla.png)
 
-
+![Recursos usados en la síntesis y configuración de LCD](./recursos_usados.png)
